@@ -1,1 +1,5 @@
-
+- Only use info in text
+- with limited evidence: give a outlined warning
+- add the warnings for:
+-  missing/empty sections
+-  <50 word sections
