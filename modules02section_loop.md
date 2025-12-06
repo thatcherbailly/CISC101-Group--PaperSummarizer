@@ -22,6 +22,7 @@ Add “Summary Level” Modes (Module 02)
    > **You must:**
    > 
    > * Add a **variable** (e.g., `summary_level`) to the module’s logic.
+>    * keep the summary to 250 words max 
    > 
    > * Add **conditional behavior** in the section loop:
    >   
